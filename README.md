@@ -1,8 +1,6 @@
-Here is a beautified and rephrased version of your README file:
 
----
 
-# 🌐 SocialHub - A Modern Social Media Platform
+# 🌐 [SocialHub](https://social-hub-alpha.vercel.app/) - A Modern Social Media Platform
 
 Explore a vibrant social media experience with SocialHub! This platform offers a sleek, user-friendly interface with an array of powerful features. Effortlessly create, explore, and manage posts while enjoying seamless performance, thanks to robust authentication and efficient data fetching powered by React Query.
 
@@ -95,4 +93,6 @@ Start the project locally:
 npm start
 ```
 
----
+--- 
+
+This README now includes your hosted link at the top. Feel free to update further as needed!
